@@ -14,11 +14,6 @@ header-include:
         - \usepackage{amsmath}
 ---
 
-First slide 
-======================================================
-
-![\ ](./images/first-slide.png){ height=260px }
-
 Plan
 =================================================================================
 
@@ -27,17 +22,18 @@ Plan
 	- technical 
 	- sociological
 
-Issues of reproducibility in sciences 
-=================================================================================
-![Stodden, 2014](./images/credibility-crisis.png){ height=240px }
+
+# Issues of reproducibility in sciences 
+
+## <!-- Issues of reproducibility in sciences -->
+
+![Stodden, 2014](./images/credibility-crisis.png){ height=200px }
 
 <!-- Say that still, many people do not take this seriously: this is only other researchers problem, not mine -->
 
+# Historical perspective
 
-Historical perspective
-=================================================================================
-
-- when did we start to talk of the pb? 
+- When did we start to talk of the pb? 
 	- in a nutshell, almost at the time of the p-value was defined
 - Fisher conception:
 	- an indication of something about H0
@@ -45,26 +41,54 @@ Historical perspective
 	- a decision making rule
 - Which one is used today ?
 
-Significance testing as perverse probabilistic reasoning
-=================================================================================
-![Westover, 2014](./images/westover-questions.png){ height=240px }
+# Social factors 
 
-Significance testing as perverse probabilistic reasoning
-=================================================================================
-![Westover, 2014](./images/westover-table-results.png){ height=240px }
 
-Social: the life science curse
+# Significance testing as perverse probabilistic reasoning
+
+![Westover, 2014](./images/westover-questions.png){ height=200px }
+<!--   -->
+
+# Significance testing as perverse probabilistic reasoning
+
+![Westover, 2014](./images/westover-table-results.png){ height=200px }
+
+# Social: the life science curse
+
+- Publications only with p<.05 
+- Reviewers and editors dont want to publish negative results: the "impact" issue 
+
+>   "...  whether you would be able to review the manuscript "No Evidence
+>   for an Effect of XXX on Hippocampal Volume in a YYY Sample", by  \emph{some-authors},
+>   submited for consideration in ..."
+
+- reviewer story
+
+# Social: incentives get in the way 
+
+# Social: incentives get in the way 
+
+![Bishop, 2015](./images/harcking-hacking-bishop.png){ height=240px }
+
+Example 1
 =================================================================================
-- publications only with p<.05 
-- reviewers dont believe:
-    "[...] to ask whether you would be able to review the manuscript "No Evidence
-    for an Effect of XXX on Hippocampal Volume in a YYY Sample", by  ZZZ,
-    submitted for consideration in [...]"
-	
-Examples
+
+![Westover, 2014](./images/muller-jama-psy-unipolar-depression-meta-analysis.png){ height=120px }
+
+\vspace{-1cm}
+
+> \small{During the past 20 years, numerous neuroimaging experiments have investigated aberrant brain activation during cognitive and emotional processing in patients with unipolar depression.}
+
+> \small{In total, 57 studies with 99 individual neuroimaging experiments comprising in total 1058 patients were included; 34 of them tested cognitive and 65 emotional processing. Overall analyses across cognitive processing experiments ( P > .29) and across emotional processing experiments ( P > .47) revealed no significant results. }
+
+
+Examples 2: All foods cause cancer ?
 =================================================================================
-- Russ meta analyses wrong paper
-- all food are cancerogene 
+
+- Of 264 single-study assessments, 191 (72%) concluded that the tested food was associated with an increased ( n = 103) or a decreased ( n = 88) risk;
+- 75% of the risk estimates had weak (0.05 > P > 0.001) or no statistical ( P > 0.05) significance. 
+- Meta-analyses ( n = 36) presented more conservative re- sults; only 13 (26%) reported an increased ( n = 4) or a decreased ( n = 9) risk  
+
 
 Consequences: Button et al
 =================================================================================
@@ -85,7 +109,7 @@ The solutions
 
 Solutions - social 
 =================================================================================
-- Ban p-values !!!
+- Ban p-values ?
 - Cobidas / NPRC / Best practices / ...
 - Education (Editors, Reviewers, Authors, Universities, ...)
 - 
@@ -147,4 +171,9 @@ Thank you for your attention - Questions ?
 ======================================================
 
 
+<!--
+First slide 
+======================================================
 
+![\ ](./images/first-slide.png){ height=260px }
+-->

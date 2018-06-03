@@ -1,4 +1,5 @@
 \documentclass[ignorenonframetext,]{beamer}
+\useoutertheme{progress}
 \usetheme{CambridgeUS}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{:}
@@ -8,6 +9,14 @@
 \usepackage{fixltx2e} % provides \textsubscript
 \usepackage{lmodern}
 \usepackage{longtable}
+\usepackage{caption}
+%\renewcommand\caption[1]{%
+%  \captionsetup{font=footnotesize}%
+%  \vspace{-.3cm}
+%  \caption{#1}}
+
+%\captionsetup{font=small,labelfont=small}
+
 \ifxetex
   \usepackage{fontspec,xltxtra,xunicode}
   \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
