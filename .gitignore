@@ -2,7 +2,7 @@ beamer-files/*
 convert.sh
 footer.tex
 header.tex
-images/*
+images
 _images/*
 LICENSE
 links.md
