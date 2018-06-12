@@ -18,11 +18,10 @@ Plan
 =================================================================================
 
 - A quick historical perspective
-- what is/are the problems?
-	- is Ioannidis right?
+- Was Ioannidis right?
+- What is/are the problems?
 	- technical 
 	- sociological
-
 
 # Issues of reproducibility in sciences 
 
@@ -30,7 +29,44 @@ Plan
 
 ![Stodden, 2014](./images/credibility-crisis.png){ height=200px }
 
-<!-- Say that still, many people do not take this seriously: this is only other researchers problem, not mine -->
+<!--  still, many people do not take this seriously: this is only other researchers problem, not mine -->
+<!--  evidence is growing, and funding agencies, institutions, journals, all working now -->
+
+# How much is reproducibility impacted by our current statistical procedures ?
+
+- Reproducibility is first and foremost a statistical issue
+
+- Evidence that this might be the case:
+	- Works by statisticians to show that p=0.05 is weak evidence 
+	- Ioannidis theoretical arguments 
+
+- Study on the statistical practices 
+	- Simmons and Simonsohn in psychology
+	- Wang et al., 2018
+
+# Example 1
+
+![Simmons, 2011](./images/simmons-2011-table1.png){ height=200px }
+
+# Example 2
+
+![Wang, 2018](./images/biostatistical-consulting.png){ height=200px }
+
+# Anecdotal evidence 1
+
+![Muller, 2017](./images/muller-jama-psy-unipolar-depression-meta-analysis.png){ height=120px }
+
+\vspace{-1cm}
+
+> \small{During the past 20 years, numerous neuroimaging experiments have investigated aberrant brain activation during cognitive and emotional processing in patients with unipolar depression.}
+
+> \small{In total, 57 studies with 99 individual neuroimaging experiments comprising in total 1058 patients were included; 34 of them tested cognitive and 65 emotional processing. Overall analyses across cognitive processing experiments ( P > .29) and across emotional processing experiments ( P > .47) revealed no significant results. }
+
+# Anecdotal evidence 2: All foods cause cancer ?
+
+- Of 264 single-study assessments, 191 (72%) concluded that the tested food was associated with an increased ( n = 103) or a decreased (n = 88) risk;
+- 75% of the risk estimates had weak (0.05 > P > 0.001) or no statistical ( P > 0.05) significance. 
+- Meta-analyses (n = 36) presented more conservative re- sults; only 13 (26%) reported an increased ( n = 4) or a decreased ( n = 9) risk  
 
 # Historical perspective
 
@@ -42,14 +78,19 @@ Plan
 	- a decision making rule
 - Which one is used today ?
 
+<!--   -->
+
 # Significance testing as perverse probabilistic reasoning
 
 ![Westover, 2014](./images/westover-questions.png){ height=200px }
+
 <!--   -->
 
 # Significance testing as perverse probabilistic reasoning
 
 ![Westover, 2014](./images/westover-table-results.png){ height=200px }
+
+<!--   -->
 
 # Social: the life science curse
 
@@ -60,42 +101,31 @@ Plan
 >   for an Effect of XXX on Hippocampal Volume in a YYY Sample", by  \emph{some-authors},
 >   submited for consideration in ..."
 
+<!--   -->
+
 # Not everybody believes in power
 
 - grant reviewer quote (grant on power rejected)
 
 >  "... skeptical that searches of existing
 >  studies have information that's relevant and targeted enough to assessing
->  power or reproducibility for scientifically interesting *new* designs"
+>  power or reproducibility for scientifically interesting *new* designs."
 
 ![No evidence not published?](./images/no-evidence-papers.png){ height=120px }
+
+<!--   -->
 
 # Social factors: when incentives get in the way 
 
 ![Bishop, 2015](./images/harcking-hacking-bishop.png){ height=240px }
+
+<!--   -->
 
 Consequences: Button et al, 2013
 =================================================================================
 - inflated effect sizes
 - decreased PPV 
 
-Example 1
-=================================================================================
-
-![Muller, 2017](./images/muller-jama-psy-unipolar-depression-meta-analysis.png){ height=120px }
-
-\vspace{-1cm}
-
-> \small{During the past 20 years, numerous neuroimaging experiments have investigated aberrant brain activation during cognitive and emotional processing in patients with unipolar depression.}
-
-> \small{In total, 57 studies with 99 individual neuroimaging experiments comprising in total 1058 patients were included; 34 of them tested cognitive and 65 emotional processing. Overall analyses across cognitive processing experiments ( P > .29) and across emotional processing experiments ( P > .47) revealed no significant results. }
-
-Examples 2: All foods cause cancer ?
-=================================================================================
-
-- Of 264 single-study assessments, 191 (72%) concluded that the tested food was associated with an increased ( n = 103) or a decreased (n = 88) risk;
-- 75% of the risk estimates had weak (0.05 > P > 0.001) or no statistical ( P > 0.05) significance. 
-- Meta-analyses (n = 36) presented more conservative re- sults; only 13 (26%) reported an increased ( n = 4) or a decreased ( n = 9) risk  
 
 The reactions / solutions: 
 =================================================================================

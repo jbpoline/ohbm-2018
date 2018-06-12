@@ -1,0 +1,18 @@
+H_0 : D_i has negligible effect versus
+H_1 : D_i has a non-negligible effect
+
+Suppose that one of these tests results in a p value of .05 (or ~ .01).  
+
+How strong is the evidence that the drug in question has a non-negligible
+effect? 
+
+To study this, we will simply collect all the p values from a large number of
+such tests, and record how often the null hypothesis is true for p values at
+various levels.
+
+
+Note that the null hypotheses, H 0 , have special plausibil- ity in these
+tests; many experimental drugs that are tested have “negligible e¡ect,” so that
+these null hypotheses could reasonably be true. [This is related to the earlier
+comment that we are only concerned with the testing of “precise” hy- potheses.
+See Berger, Boukai, and Wang (1997) for further discussion.]
